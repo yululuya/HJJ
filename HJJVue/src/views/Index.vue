@@ -245,11 +245,11 @@
               width="200"
             ></el-table-column>
             <el-table-column
-              prop="geometry.coordinates[1]"
+              prop="geometry.V06001"
               label="经度"
             ></el-table-column>
             <el-table-column
-              prop="geometry.coordinates[0]"
+              prop="geometry.V05001"
               label="纬度"
             ></el-table-column>
             <el-table-column
@@ -300,10 +300,10 @@
             <div v-else><span>站名：</span>{{ detailObj.STATIONNE }}</div>
           </el-col>
           <el-col :span="8">
-            <div><span>经度：</span>{{ detailObj.V05001 }}</div>
+            <div><span>经度：</span>{{ detailObj.V06001 }}</div>
           </el-col>
           <el-col :span="8">
-            <div><span>纬度：</span>{{ detailObj.V06001 }}</div>
+            <div><span>纬度：</span>{{ detailObj.V05001 }}</div>
           </el-col>
           <el-col :span="8" v-if="detailObj.V07001">
             <div><span>高度：</span>{{ detailObj.V07001 }}</div>
@@ -1370,7 +1370,7 @@ export default {
     showPointStation(outdata, size) {
       let map = this.lmap;
       let that = this;
-      let radius = size || 5;
+      let radius = size || 10;
 
       let geojsonObject = outdata;
       that.geojsonObject1 = geojsonObject;
@@ -1379,14 +1379,26 @@ export default {
       if (clayer) {
         map.remove(clayer);
       }
+      if (size) {
+        var icon = new PIE.ClusterPointLayer({
+          id: "tuceng1",
+          data: that.geojsonObject1,
+          color: "#007aff",
+          strokeColor: "#007aff",
+          strokeWidth: 1,
+          opacity: 0.2,
+          size: radius,
+        });
+      } else {
+        var icon = new PIE.ClusterPointLayer({
+          id: "tuceng1",
+          data: that.geojsonObject1,
+          color: "#238443",
+          opacity: 0.7,
+          size: radius,
+        });
+      }
 
-      var icon = new PIE.ClusterPointLayer({
-        id: "tuceng1",
-        data: that.geojsonObject1,
-        color: "#238443",
-        opacity: 0.7,
-        size: radius,
-      });
       map.add(icon);
       if (
         this.areaSelect.type == "stationSearch" &&

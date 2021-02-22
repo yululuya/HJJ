@@ -18,10 +18,10 @@
             <div><span>站名：</span>{{ detailObj.STATIONNAME }}</div>
           </el-col>
           <el-col :span="6">
-            <div><span>经度：</span>{{ detailObj.V05001 }}</div>
+            <div><span>经度：</span>{{ detailObj.V06001 }}</div>
           </el-col>
           <el-col :span="6">
-            <div><span>纬度：</span>{{ detailObj.V06001 }}</div>
+            <div><span>纬度：</span>{{ detailObj.V05001 }}</div>
           </el-col>
           <el-col :span="24">
             <div><span>简介：</span>{{ detailObj.STATIONTITLE }}</div>
