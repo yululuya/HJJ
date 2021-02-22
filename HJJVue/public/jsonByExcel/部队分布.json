@@ -1,0 +1,106 @@
+
+{
+    "type": "FeatureCollection",
+    
+    "features":[{
+        "type": "Feature",
+        "properties": {
+            "COUNTRY": "中国",
+            "PROVINCE": "江苏省",
+            "CITY": "徐州市",
+            "area":"东部战区",
+            "unitType":"第71集团军",
+            "corpsType":"71集团军31655部队",
+            "msg":"合成2旅、合成35旅、合成160旅、合成178旅、合成179旅、合成235旅、特战71旅、炮兵71旅、防空71旅、陆航71旅、工化71旅、勤务支援71旅",
+            "num":"120"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                117.184811,
+                34.261792
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "COUNTRY": "中国",
+            "PROVINCE": "浙江省",
+            "CITY": "湖州市",
+            "area":"东部战区",
+            "unitType":"第72集团军",
+            "corpsType":"72集团军31657部队",
+            "msg":"合成5旅、合成10旅、合成34旅、合成85旅、合成90旅、合成124旅、特战72旅、炮兵72旅、防空72旅、陆航72旅、工化72旅、勤务支援72旅",
+            "num":"20"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.102398,
+                30.86719
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "COUNTRY": "中国",
+            "PROVINCE": "福建省",
+            "CITY": "厦门市",
+            "area":"东部战区",
+            "unitType":"第73集团军",
+            "corpsType":"73集团军31659部队",
+            "msg":"合成3旅、合成14旅、合成86旅、合成91旅、合成92旅、合成145旅、特战73旅、炮兵73旅、防空73旅、陆航73旅、工化73旅、勤务支援73旅",
+            "num":"110"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.0404,
+                24.2646
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "COUNTRY": "中国",
+            "PROVINCE": "广东省",
+            "CITY": "惠州市",
+            "area":"南部战区",
+            "unitType":"第74集团军",
+            "corpsType":"74集团军31661部队",
+            "msg":"合成1旅、合成16旅、合成125旅、合成132旅、合成154旅、合成163旅、特战74旅、炮兵74旅、防空74旅、陆航74旅、工化74旅、勤务支援74旅",
+            "num":"80"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.412599,
+                23.079404
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "COUNTRY": "中国",
+            "PROVINCE": "云南省",
+            "CITY": "昆明市",
+            "area":"南部战区",
+            "unitType":"第75集团军",
+            "corpsType":"75集团军31663部队",
+            "msg":"合成31旅、合成32旅、合成37旅、合成42旅、合成122旅、合成123旅、空中突击121旅、特战75旅、炮兵75旅、防空75旅、工化75旅、勤务支援75旅",
+            "num":"80"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                102.712251,
+                25.040609
+            ]
+        }
+    }
+    ]
+    }

@@ -1,0 +1,3784 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9002",
+                "CITY": "青浦",
+                "TYPE": "SA",
+                "V05001": 31.0747,
+                "V06001": 120.9525,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9525,
+                    31.0747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9010",
+                "CITY": "大兴",
+                "TYPE": "SA",
+                "V05001": 39.8089,
+                "V06001": 116.4692,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4692,
+                    39.8089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9020",
+                "CITY": "霍林郭勒",
+                "TYPE": "CB",
+                "V05001": 45.5503,
+                "V06001": 119.6342,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6342,
+                    45.5503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9021",
+                "CITY": "满州里",
+                "TYPE": "CB",
+                "V05001": 49.5844,
+                "V06001": 117.3169,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.3169,
+                    49.5844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9060",
+                "CITY": "神农架",
+                "TYPE": "SA",
+                "V05001": 31.6108,
+                "V06001": 110.3333,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3333,
+                    31.6108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9070",
+                "CITY": "三亚",
+                "TYPE": "SC",
+                "V05001": 18.2281,
+                "V06001": 109.5836,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.5836,
+                    18.2281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9071",
+                "CITY": "西沙",
+                "TYPE": "SC",
+                "V05001": 16.8336,
+                "V06001": 112.3192,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.3192,
+                    16.8336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9075",
+                "CITY": "崇左",
+                "TYPE": "SA",
+                "V05001": 22.375,
+                "V06001": 107.3797,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.3797,
+                    22.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9080",
+                "CITY": "奎屯",
+                "TYPE": "CC",
+                "V05001": 44.3814,
+                "V06001": 84.1019,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.1019,
+                    44.3814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9081",
+                "CITY": "五家渠",
+                "TYPE": "CC",
+                "V05001": 44.1478,
+                "V06001": 87.555,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.555,
+                    44.1478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9082",
+                "CITY": "图木舒克",
+                "TYPE": "CC",
+                "V05001": 39.8708,
+                "V06001": 79.0858,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0858,
+                    39.8708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9083",
+                "CITY": "塔斯尔海",
+                "TYPE": "CC",
+                "V05001": 44.8272,
+                "V06001": 82.3497,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3497,
+                    44.8272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9084",
+                "CITY": "九三",
+                "TYPE": "CC",
+                "V05001": 48.8681,
+                "V06001": 125.2847,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.2847,
+                    48.8681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9085",
+                "CITY": "建三江",
+                "TYPE": "CC",
+                "V05001": 47.2681,
+                "V06001": 132.6183,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6183,
+                    47.2681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9090",
+                "CITY": "万州",
+                "TYPE": "SB",
+                "V05001": 30.8028,
+                "V06001": 108.6833,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.6833,
+                    30.8028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9091",
+                "CITY": "黔江",
+                "TYPE": "CD",
+                "V05001": 29.5917,
+                "V06001": 108.7189,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.7189,
+                    29.5917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9092",
+                "CITY": "永川",
+                "TYPE": "SA",
+                "V05001": 29.2406,
+                "V06001": 105.8192,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8192,
+                    29.2406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9200",
+                "CITY": "广州",
+                "TYPE": "SA",
+                "V05001": 23.0039,
+                "V06001": 113.3525,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3525,
+                    23.0039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9210",
+                "TYPE": "WSR-88D",
+                "V05001": 31.0072,
+                "V06001": 121.8686,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8686,
+                    31.0072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9220",
+                "CITY": "塘沽",
+                "TYPE": "SA",
+                "V05001": 39.0439,
+                "V06001": 117.7169,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.7169,
+                    39.0439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9230",
+                "CITY": "重庆",
+                "TYPE": "SA",
+                "V05001": 29.5225,
+                "V06001": 106.4836,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4836,
+                    29.5225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9240",
+                "CITY": "沈阳",
+                "TYPE": "SC",
+                "V05001": 41.925,
+                "V06001": 123.6358,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.6358,
+                    41.925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9250",
+                "CITY": "南京",
+                "TYPE": "SA",
+                "V05001": 32.1911,
+                "V06001": 118.6836,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.6836,
+                    32.1911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9270",
+                "CITY": "武汉",
+                "TYPE": "SA",
+                "V05001": 30.5169,
+                "V06001": 114.3692,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3692,
+                    30.5169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9280",
+                "CITY": "成都",
+                "TYPE": "SC",
+                "V05001": 30.6633,
+                "V06001": 104.0019,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.0019,
+                    30.6633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9290",
+                "CITY": "西安",
+                "TYPE": "CB",
+                "V05001": 34.4447,
+                "V06001": 108.9667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.9667,
+                    34.4447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9310",
+                "CITY": "邯郸",
+                "TYPE": "SA",
+                "V05001": 36.6167,
+                "V06001": 114.4667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4667,
+                    36.6167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9311",
+                "CITY": "石家庄",
+                "TYPE": "SA",
+                "V05001": 38.3514,
+                "V06001": 114.7006,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7006,
+                    38.3514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9313",
+                "CITY": "张家口",
+                "TYPE": "CB",
+                "V05001": 41.1558,
+                "V06001": 114.6856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6856,
+                    41.1558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9314",
+                "CITY": "承德",
+                "TYPE": "CB",
+                "V05001": 40.9758,
+                "V06001": 117.9175,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.9175,
+                    40.9758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9317",
+                "CITY": "沧州",
+                "TYPE": "SA",
+                "V05001": 38.2792,
+                "V06001": 116.8011,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.8011,
+                    38.2792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9335",
+                "CITY": "秦皇岛",
+                "TYPE": "SA",
+                "V05001": 39.8811,
+                "V06001": 118.8669,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.8669,
+                    39.8811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9351",
+                "CITY": "太原",
+                "TYPE": "CC",
+                "V05001": 37.735,
+                "V06001": 112.5678,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5678,
+                    37.735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9352",
+                "CITY": "大同",
+                "TYPE": "CB",
+                "V05001": 40.0719,
+                "V06001": 113.3847,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3847,
+                    40.0719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9355",
+                "CITY": "长治",
+                "TYPE": "CC",
+                "V05001": 36.2239,
+                "V06001": 113.0508,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.0508,
+                    36.2239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9357",
+                "CITY": "临汾",
+                "TYPE": "CC",
+                "V05001": 36.0625,
+                "V06001": 111.4858,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.4858,
+                    36.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9358",
+                "CITY": "吕梁",
+                "TYPE": "CA",
+                "V05001": 37.5236,
+                "V06001": 111.1339,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.1339,
+                    37.5236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9370",
+                "CITY": "商丘",
+                "TYPE": "SB",
+                "V05001": 34.4128,
+                "V06001": 115.6181,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.6181,
+                    34.4128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9371",
+                "CITY": "郑州",
+                "TYPE": "SA",
+                "V05001": 34.7044,
+                "V06001": 113.6836,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.6836,
+                    34.7044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9375",
+                "CITY": "平顶山",
+                "TYPE": "SA",
+                "V05001": 33.77,
+                "V06001": 113.1172,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1172,
+                    33.77
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9376",
+                "CITY": "信阳",
+                "TYPE": "SA",
+                "V05001": 32.1372,
+                "V06001": 114.0433,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0433,
+                    32.1372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9377",
+                "CITY": "南阳",
+                "TYPE": "SB",
+                "V05001": 33.0206,
+                "V06001": 112.4847,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4847,
+                    33.0206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9379",
+                "CITY": "洛阳",
+                "TYPE": "SA",
+                "V05001": 34.5619,
+                "V06001": 112.4356,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4356,
+                    34.5619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9393",
+                "CITY": "濮阳",
+                "TYPE": "SB",
+                "V05001": 35.7758,
+                "V06001": 114.9336,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9336,
+                    35.7758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9396",
+                "CITY": "驻马店",
+                "TYPE": "SB",
+                "V05001": 33.0092,
+                "V06001": 114.0169,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0169,
+                    33.0092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9398",
+                "CITY": "三门峡",
+                "TYPE": "SB",
+                "V05001": 34.6789,
+                "V06001": 111.1183,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.1183,
+                    34.6789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9411",
+                "CITY": "大连",
+                "TYPE": "SA",
+                "V05001": 38.9081,
+                "V06001": 121.6342,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6342,
+                    38.9081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9417",
+                "CITY": "营口",
+                "TYPE": "SA",
+                "V05001": 40.6428,
+                "V06001": 122.5172,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.5172,
+                    40.6428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9421",
+                "CITY": "朝阳",
+                "TYPE": "CD",
+                "V05001": 41.5331,
+                "V06001": 120.5,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5,
+                    41.5331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9431",
+                "CITY": "长春",
+                "TYPE": "CC",
+                "V05001": 43.8994,
+                "V06001": 125.2353,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.2353,
+                    43.8994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9433",
+                "CITY": "延吉",
+                "TYPE": "CC",
+                "V05001": 42.8386,
+                "V06001": 129.4689,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.4689,
+                    42.8386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9436",
+                "CITY": "白城",
+                "TYPE": "CC",
+                "V05001": 45.6147,
+                "V06001": 122.785,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.785,
+                    45.6147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9437",
+                "CITY": "辽源",
+                "TYPE": "CC",
+                "V05001": 42.9022,
+                "V06001": 125.1508,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.1508,
+                    42.9022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9438",
+                "CITY": "松原",
+                "TYPE": "CC",
+                "V05001": 45.1525,
+                "V06001": 124.8675,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8675,
+                    45.1525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9439",
+                "CITY": "白山",
+                "TYPE": "CC",
+                "V05001": 41.9714,
+                "V06001": 126.1856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.1856,
+                    41.9714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9451",
+                "CITY": "哈尔滨",
+                "TYPE": "CA",
+                "V05001": 45.9808,
+                "V06001": 127.2339,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.2339,
+                    45.9808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9452",
+                "CITY": "齐齐哈尔",
+                "TYPE": "CC",
+                "V05001": 47.3672,
+                "V06001": 123.9344,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.9344,
+                    47.3672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9453",
+                "CITY": "牡丹江",
+                "TYPE": "CC",
+                "V05001": 44.5914,
+                "V06001": 129.5858,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.5858,
+                    44.5914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9454",
+                "CITY": "佳木斯",
+                "TYPE": "CC",
+                "V05001": 46.7961,
+                "V06001": 130.3181,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3181,
+                    46.7961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9455",
+                "CITY": "绥化",
+                "TYPE": "CA",
+                "V05001": 46.8392,
+                "V06001": 126.8389,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.8389,
+                    46.8392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9456",
+                "CITY": "黑河",
+                "TYPE": "CC",
+                "V05001": 50.1808,
+                "V06001": 127.3003,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.3003,
+                    50.1808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9457",
+                "CITY": "加格达奇",
+                "TYPE": "CC",
+                "V05001": 50.4086,
+                "V06001": 124.1022,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.1022,
+                    50.4086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9458",
+                "CITY": "伊春",
+                "TYPE": "CC",
+                "V05001": 47.7003,
+                "V06001": 128.9006,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.9006,
+                    47.7003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9470",
+                "CITY": "海拉尔",
+                "TYPE": "CD",
+                "V05001": 49.2042,
+                "V06001": 119.7508,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.7508,
+                    49.2042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9471",
+                "CITY": "呼和浩特",
+                "TYPE": "CD",
+                "V05001": 40.9819,
+                "V06001": 111.6858,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.6858,
+                    40.9819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9474",
+                "CITY": "乌兰察布",
+                "TYPE": "CB",
+                "V05001": 36.93,
+                "V06001": 98.4886,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.4886,
+                    36.93
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9475",
+                "CITY": "通辽",
+                "TYPE": "CB",
+                "V05001": 43.6203,
+                "V06001": 122.2525,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.2525,
+                    43.6203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9476",
+                "CITY": "赤峰",
+                "TYPE": "CD",
+                "V05001": 42.2325,
+                "V06001": 118.9525,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.9525,
+                    42.2325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9477",
+                "CITY": "鄂尔多斯",
+                "TYPE": "CB",
+                "V05001": 39.8133,
+                "V06001": 110.0347,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.0347,
+                    39.8133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9478",
+                "CITY": "临河",
+                "TYPE": "CD",
+                "V05001": 40.7347,
+                "V06001": 107.3686,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.3686,
+                    40.7347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9513",
+                "CITY": "南通",
+                "TYPE": "SA",
+                "V05001": 32.0792,
+                "V06001": 120.9511,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9511,
+                    32.0792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9515",
+                "CITY": "盐城",
+                "TYPE": "SA",
+                "V05001": 33.4283,
+                "V06001": 120.1842,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1842,
+                    33.4283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9516",
+                "CITY": "徐州",
+                "TYPE": "SA",
+                "V05001": 34.2928,
+                "V06001": 117.1519,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1519,
+                    34.2928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9517",
+                "CITY": "淮安",
+                "TYPE": "SA",
+                "V05001": 33.2431,
+                "V06001": 118.8175,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.8175,
+                    33.2431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9518",
+                "CITY": "连云港",
+                "TYPE": "SA",
+                "V05001": 34.6503,
+                "V06001": 119.2847,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.2847,
+                    34.6503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9519",
+                "CITY": "常州",
+                "TYPE": "SA",
+                "V05001": 31.9008,
+                "V06001": 119.7686,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.7686,
+                    31.9008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9523",
+                "CITY": "泰州",
+                "TYPE": "SA",
+                "V05001": 32.5569,
+                "V06001": 119.9856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.9856,
+                    32.5569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9527",
+                "CITY": "宿迁",
+                "TYPE": "SA",
+                "V05001": 34.1008,
+                "V06001": 118.3178,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3178,
+                    34.1008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9531",
+                "CITY": "济南",
+                "TYPE": "SA",
+                "V05001": 36.8033,
+                "V06001": 116.7678,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7678,
+                    36.8033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9532",
+                "CITY": "青岛",
+                "TYPE": "SA",
+                "V05001": 35.9886,
+                "V06001": 120.2192,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2192,
+                    35.9886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9535",
+                "CITY": "烟台",
+                "TYPE": "SA",
+                "V05001": 37.4986,
+                "V06001": 121.3856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3856,
+                    37.4986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9536",
+                "CITY": "潍坊",
+                "TYPE": "SA",
+                "V05001": 36.6619,
+                "V06001": 118.9014,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.9014,
+                    36.6619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9538",
+                "CITY": "泰山",
+                "TYPE": "CD",
+                "V05001": 36.2561,
+                "V06001": 117.1,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1,
+                    36.2561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9539",
+                "CITY": "临沂",
+                "TYPE": "SA",
+                "V05001": 35.2503,
+                "V06001": 118.4181,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4181,
+                    35.2503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9543",
+                "CITY": "滨州",
+                "TYPE": "SA",
+                "V05001": 37.3503,
+                "V06001": 117.9672,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.9672,
+                    37.3503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9551",
+                "CITY": "合肥",
+                "TYPE": "SA",
+                "V05001": 31.8658,
+                "V06001": 117.2336,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.2336,
+                    31.8658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9552",
+                "CITY": "蚌埠",
+                "TYPE": "SA",
+                "V05001": 32.9175,
+                "V06001": 117.4358,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.4358,
+                    32.9175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9555",
+                "CITY": "马鞍山",
+                "TYPE": "CC",
+                "V05001": 31.7017,
+                "V06001": 118.5014,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.5014,
+                    31.7017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9556",
+                "CITY": "安庆",
+                "TYPE": "SA",
+                "V05001": 30.6172,
+                "V06001": 116.7856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7856,
+                    30.6172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9558",
+                "CITY": "阜阳",
+                "TYPE": "SA",
+                "V05001": 32.8789,
+                "V06001": 115.7356,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.7356,
+                    32.8789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9559",
+                "CITY": "黄山",
+                "TYPE": "SA",
+                "V05001": 30.135,
+                "V06001": 118.1503,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1503,
+                    30.135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9562",
+                "CITY": "铜陵",
+                "TYPE": "SA",
+                "V05001": 30.9528,
+                "V06001": 118.0339,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0339,
+                    30.9528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9570",
+                "CITY": "衢州",
+                "TYPE": "SB",
+                "V05001": 29.0858,
+                "V06001": 118.7,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.7,
+                    29.0858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9571",
+                "CITY": "杭州",
+                "TYPE": "SA",
+                "V05001": 30.2733,
+                "V06001": 120.3347,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3347,
+                    30.2733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9572",
+                "CITY": "湖州",
+                "TYPE": "SA",
+                "V05001": 30.8378,
+                "V06001": 120.2019,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2019,
+                    30.8378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9574",
+                "CITY": "宁波",
+                "TYPE": "SA",
+                "V05001": 30.0697,
+                "V06001": 121.5011,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5011,
+                    30.0697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9576",
+                "CITY": "台州",
+                "TYPE": "SA",
+                "V05001": 28.4503,
+                "V06001": 121.5172,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5172,
+                    28.4503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9577",
+                "CITY": "温州",
+                "TYPE": "SA",
+                "V05001": 27.8953,
+                "V06001": 120.7344,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7344,
+                    27.8953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9578",
+                "CITY": "丽水",
+                "TYPE": "SA",
+                "V05001": 28.45,
+                "V06001": 119.9167,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.9167,
+                    28.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9579",
+                "CITY": "金华",
+                "TYPE": "SB",
+                "V05001": 29.2156,
+                "V06001": 119.6353,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6353,
+                    29.2156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9580",
+                "CITY": "舟山",
+                "TYPE": "SB",
+                "V05001": 30.0689,
+                "V06001": 122.1008,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.1008,
+                    30.0689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9591",
+                "CITY": "福州",
+                "TYPE": "SA",
+                "V05001": 25.9914,
+                "V06001": 119.535,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.535,
+                    25.9914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9592",
+                "CITY": "厦门",
+                "TYPE": "SA",
+                "V05001": 24.4847,
+                "V06001": 118.0689,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0689,
+                    24.4847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9593",
+                "CITY": "宁德",
+                "TYPE": "SA",
+                "V05001": 26.6667,
+                "V06001": 119.5167,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.5167,
+                    26.6667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9595",
+                "CITY": "泉州",
+                "TYPE": "SA",
+                "V05001": 24.8956,
+                "V06001": 118.485,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.485,
+                    24.8956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9596",
+                "CITY": "漳州",
+                "TYPE": "SA",
+                "V05001": 24.5,
+                "V06001": 117.65,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.65,
+                    24.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9597",
+                "CITY": "龙岩",
+                "TYPE": "SA",
+                "V05001": 25.0644,
+                "V06001": 117.1839,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1839,
+                    25.0644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9598",
+                "CITY": "三明",
+                "TYPE": "SA",
+                "V05001": 27.0086,
+                "V06001": 117.0667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.0667,
+                    27.0086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9599",
+                "CITY": "建阳",
+                "TYPE": "SA",
+                "V05001": 27.3494,
+                "V06001": 118.1006,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1006,
+                    27.3494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9631",
+                "CITY": "荣成",
+                "TYPE": "SA",
+                "V05001": 37.15,
+                "V06001": 122.3692,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.3692,
+                    37.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9660",
+                "CITY": "汕尾",
+                "TYPE": "SA",
+                "V05001": 22.8183,
+                "V06001": 115.3506,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.3506,
+                    22.8183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9662",
+                "CITY": "阳江",
+                "TYPE": "SA",
+                "V05001": 21.8453,
+                "V06001": 111.9683,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.9683,
+                    21.8453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9692",
+                "CITY": "德宏",
+                "TYPE": "CC",
+                "V05001": 24.4892,
+                "V06001": 98.3444,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.3444,
+                    24.4892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9710",
+                "CITY": "襄阳",
+                "TYPE": "SA",
+                "V05001": 32.1667,
+                "V06001": 112.2019,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.2019,
+                    32.1667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9713",
+                "CITY": "麻城",
+                "TYPE": "SA",
+                "V05001": 30.5156,
+                "V06001": 114.9369,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9369,
+                    30.5156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9716",
+                "CITY": "荆州",
+                "TYPE": "SA",
+                "V05001": 30.3519,
+                "V06001": 112.1339,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.1339,
+                    30.3519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9717",
+                "CITY": "宜昌",
+                "TYPE": "SA",
+                "V05001": 30.7269,
+                "V06001": 111.3522,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.3522,
+                    30.7269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9718",
+                "CITY": "恩施",
+                "TYPE": "SB",
+                "V05001": 30.2869,
+                "V06001": 109.2514,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2514,
+                    30.2869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9719",
+                "CITY": "十堰",
+                "TYPE": "SB",
+                "V05001": 32.5989,
+                "V06001": 110.7356,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.7356,
+                    32.5989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9722",
+                "CITY": "随州",
+                "TYPE": "SB",
+                "V05001": 31.7169,
+                "V06001": 113.3844,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3844,
+                    31.7169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9730",
+                "CITY": "岳阳",
+                "TYPE": "SB",
+                "V05001": 29.2997,
+                "V06001": 113.1003,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1003,
+                    29.2997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9731",
+                "CITY": "长沙",
+                "TYPE": "SA",
+                "V05001": 28.46,
+                "V06001": 113.0008,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.0008,
+                    28.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9734",
+                "CITY": "衡阳",
+                "TYPE": "SA",
+                "V05001": 26.935,
+                "V06001": 112.5689,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5689,
+                    26.935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9735",
+                "CITY": "郴州",
+                "TYPE": "SA",
+                "V05001": 25.7342,
+                "V06001": 112.9667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.9667,
+                    25.7342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9736",
+                "CITY": "常德",
+                "TYPE": "SA",
+                "V05001": 29.1808,
+                "V06001": 111.7014,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.7014,
+                    29.1808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9739",
+                "CITY": "邵阳",
+                "TYPE": "SA",
+                "V05001": 27.2072,
+                "V06001": 111.4356,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.4356,
+                    27.2072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9744",
+                "CITY": "张家界",
+                "TYPE": "SA",
+                "V05001": 29.1311,
+                "V06001": 110.47,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.47,
+                    29.1311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9745",
+                "CITY": "怀化",
+                "TYPE": "CB",
+                "V05001": 27.5658,
+                "V06001": 110,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    27.5658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9746",
+                "CITY": "永州",
+                "TYPE": "SB",
+                "V05001": 26.2253,
+                "V06001": 111.6025,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.6025,
+                    26.2253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9751",
+                "CITY": "韶关",
+                "TYPE": "SA",
+                "V05001": 24.7908,
+                "V06001": 113.5519,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5519,
+                    24.7908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9753",
+                "CITY": "梅州",
+                "TYPE": "SA",
+                "V05001": 24.2558,
+                "V06001": 115.9667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.9667,
+                    24.2558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9754",
+                "CITY": "汕头",
+                "TYPE": "SA",
+                "V05001": 23.2828,
+                "V06001": 116.7353,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7353,
+                    23.2828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9755",
+                "CITY": "深圳",
+                "TYPE": "SA",
+                "V05001": 22.5419,
+                "V06001": 114.0022,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0022,
+                    22.5419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9758",
+                "CITY": "肇庆",
+                "TYPE": "SA",
+                "V05001": 22.9281,
+                "V06001": 112.5522,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5522,
+                    22.9281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9759",
+                "CITY": "湛江",
+                "TYPE": "SA",
+                "V05001": 21.0122,
+                "V06001": 110.5167,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.5167,
+                    21.0122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9762",
+                "CITY": "河源",
+                "TYPE": "SA",
+                "V05001": 23.6989,
+                "V06001": 114.5847,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5847,
+                    23.6989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9763",
+                "CITY": "连州",
+                "TYPE": "SA",
+                "V05001": 24.7325,
+                "V06001": 112.4006,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4006,
+                    24.7325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9770",
+                "CITY": "防城港",
+                "TYPE": "SA",
+                "V05001": 21.5331,
+                "V06001": 108.2514,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.2514,
+                    21.5331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9771",
+                "CITY": "南宁",
+                "TYPE": "SA",
+                "V05001": 22.8039,
+                "V06001": 108.4017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.4017,
+                    22.8039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9772",
+                "CITY": "柳州",
+                "TYPE": "SB",
+                "V05001": 24.3572,
+                "V06001": 109.4503,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.4503,
+                    24.3572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9773",
+                "CITY": "桂林",
+                "TYPE": "SB",
+                "V05001": 25.3233,
+                "V06001": 110.3,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3,
+                    25.3233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9774",
+                "CITY": "梧州",
+                "TYPE": "SB",
+                "V05001": 23.4794,
+                "V06001": 111.3017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.3017,
+                    23.4794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9775",
+                "CITY": "玉林",
+                "TYPE": "SA",
+                "V05001": 22.6464,
+                "V06001": 110.2183,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.2183,
+                    22.6464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9776",
+                "CITY": "百色",
+                "TYPE": "SB",
+                "V05001": 23.9042,
+                "V06001": 106.6003,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6003,
+                    23.9042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9778",
+                "CITY": "河池",
+                "TYPE": "SB",
+                "V05001": 24.9892,
+                "V06001": 107.5017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5017,
+                    24.9892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9779",
+                "CITY": "北海",
+                "TYPE": "SA",
+                "V05001": 21.4547,
+                "V06001": 109.0519,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.0519,
+                    21.4547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9791",
+                "CITY": "南昌",
+                "TYPE": "SA",
+                "V05001": 28.5958,
+                "V06001": 115.885,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.885,
+                    28.5958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9792",
+                "CITY": "九江",
+                "TYPE": "SA",
+                "V05001": 29.5344,
+                "V06001": 115.9522,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.9522,
+                    29.5344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9793",
+                "CITY": "上饶",
+                "TYPE": "SA",
+                "V05001": 28.4389,
+                "V06001": 117.9678,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.9678,
+                    28.4389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9794",
+                "CITY": "抚州",
+                "TYPE": "SA",
+                "V05001": 27.8939,
+                "V06001": 116.2511,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.2511,
+                    27.8939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9795",
+                "CITY": "宜春",
+                "TYPE": "SA",
+                "V05001": 27.8025,
+                "V06001": 114.3003,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3003,
+                    27.8025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9796",
+                "CITY": "吉安",
+                "TYPE": "SC",
+                "V05001": 27.05,
+                "V06001": 114.9017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9017,
+                    27.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9797",
+                "CITY": "赣州",
+                "TYPE": "SC",
+                "V05001": 25.88,
+                "V06001": 114.9672,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9672,
+                    25.88
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9798",
+                "CITY": "景德镇",
+                "TYPE": "SA",
+                "V05001": 29.3614,
+                "V06001": 117.2,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.2,
+                    29.3614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9816",
+                "CITY": "绵阳",
+                "TYPE": "SC",
+                "V05001": 31.3361,
+                "V06001": 104.7514,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.7514,
+                    31.3361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9817",
+                "CITY": "南充",
+                "TYPE": "SC",
+                "V05001": 30.8222,
+                "V06001": 106.0667,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.0667,
+                    30.8222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9818",
+                "CITY": "达州",
+                "TYPE": "SC",
+                "V05001": 31.1653,
+                "V06001": 107.5333,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5333,
+                    31.1653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9831",
+                "CITY": "宜宾",
+                "TYPE": "SC",
+                "V05001": 28.8203,
+                "V06001": 104.5669,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.5669,
+                    28.8203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9833",
+                "CITY": "乐山",
+                "TYPE": "SC",
+                "V05001": 29.4072,
+                "V06001": 103.8189,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8189,
+                    29.4072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9834",
+                "CITY": "西昌",
+                "TYPE": "CD",
+                "V05001": 27.8797,
+                "V06001": 102.4022,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.4022,
+                    27.8797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9835",
+                "CITY": "雅安",
+                "TYPE": "CA",
+                "V05001": 29.9833,
+                "V06001": 103,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103,
+                    29.9833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9836",
+                "CITY": "甘孜",
+                "TYPE": "CA",
+                "V05001": 30.1489,
+                "V06001": 101.7178,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7178,
+                    30.1489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9839",
+                "CITY": "广元",
+                "TYPE": "SC",
+                "V05001": 32.4058,
+                "V06001": 105.8172,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8172,
+                    32.4058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9851",
+                "CITY": "贵阳",
+                "TYPE": "CD",
+                "V05001": 26.5903,
+                "V06001": 106.7181,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7181,
+                    26.5903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9852",
+                "CITY": "遵义",
+                "TYPE": "CD",
+                "V05001": 27.6825,
+                "V06001": 106.9006,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9006,
+                    27.6825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9854",
+                "CITY": "都匀",
+                "TYPE": "CD",
+                "V05001": 26.3203,
+                "V06001": 107.5017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5017,
+                    26.3203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9855",
+                "CITY": "黔东南",
+                "TYPE": "CD",
+                "V05001": 26.9631,
+                "V06001": 108.6856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.6856,
+                    26.9631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9856",
+                "CITY": "铜仁",
+                "TYPE": "CD",
+                "V05001": 27.8222,
+                "V06001": 109.2178,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2178,
+                    27.8222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9857",
+                "CITY": "毕节",
+                "TYPE": "CD",
+                "V05001": 27.3042,
+                "V06001": 105.2858,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.2858,
+                    27.3042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9858",
+                "CITY": "六盘水",
+                "TYPE": "CA",
+                "V05001": 35.6633,
+                "V06001": 106.2,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.2,
+                    35.6633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9859",
+                "CITY": "兴义",
+                "TYPE": "CD",
+                "V05001": 25.0883,
+                "V06001": 104.8853,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.8853,
+                    25.0883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9870",
+                "CITY": "昭通",
+                "TYPE": "CC",
+                "V05001": 27.3525,
+                "V06001": 103.7169,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7169,
+                    27.3525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9871",
+                "CITY": "昆明",
+                "TYPE": "CC",
+                "V05001": 25.0514,
+                "V06001": 102.5669,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.5669,
+                    25.0514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9872",
+                "CITY": "大理",
+                "TYPE": "CC",
+                "V05001": 25.6083,
+                "V06001": 100.3839,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3839,
+                    25.6083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9874",
+                "CITY": "曲靖",
+                "TYPE": "CA",
+                "V05001": 25.4797,
+                "V06001": 103.7017,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7017,
+                    25.4797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9876",
+                "CITY": "文山",
+                "TYPE": "CC",
+                "V05001": 23.4767,
+                "V06001": 104.2503,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.2503,
+                    23.4767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9879",
+                "CITY": "思茅",
+                "TYPE": "CC",
+                "V05001": 22.825,
+                "V06001": 101.0172,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0172,
+                    22.825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9883",
+                "CITY": "临沧",
+                "TYPE": "CA",
+                "V05001": 23.9097,
+                "V06001": 100.1856,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.1856,
+                    23.9097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9888",
+                "CITY": "丽江",
+                "TYPE": "CC",
+                "V05001": 26.7278,
+                "V06001": 100.0344,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.0344,
+                    26.7278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9891",
+                "CITY": "拉萨",
+                "TYPE": "CD",
+                "V05001": 29.6597,
+                "V06001": 91.1339,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.1339,
+                    29.6597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9892",
+                "CITY": "日喀则",
+                "TYPE": "CD",
+                "V05001": 29.2636,
+                "V06001": 88.8914,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.8914,
+                    29.2636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9894",
+                "CITY": "林芝",
+                "TYPE": "CD",
+                "V05001": 29.6325,
+                "V06001": 94.3956,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.3956,
+                    29.6325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9896",
+                "CITY": "那曲",
+                "TYPE": "CD",
+                "V05001": 31.4806,
+                "V06001": 92.0603,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.0603,
+                    31.4806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9898",
+                "CITY": "海口",
+                "TYPE": "SA",
+                "V05001": 19.9964,
+                "V06001": 110.2347,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.2347,
+                    19.9964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9903",
+                "CITY": "和田",
+                "TYPE": "CC",
+                "V05001": 37.0267,
+                "V06001": 79.8322,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8322,
+                    37.0267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9911",
+                "CITY": "延安",
+                "TYPE": "CB",
+                "V05001": 36.6094,
+                "V06001": 109.4853,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.4853,
+                    36.6094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9912",
+                "CITY": "榆林",
+                "TYPE": "CB",
+                "V05001": 38.2667,
+                "V06001": 109.7689,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.7689,
+                    38.2667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9914",
+                "CITY": "商洛",
+                "TYPE": "CB",
+                "V05001": 33.8839,
+                "V06001": 109.9358,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.9358,
+                    33.8839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9915",
+                "CITY": "安康",
+                "TYPE": "CB",
+                "V05001": 32.6931,
+                "V06001": 109.0333,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.0333,
+                    32.6931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9916",
+                "CITY": "汉中",
+                "TYPE": "CB",
+                "V05001": 33.1297,
+                "V06001": 107.0336,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.0336,
+                    33.1297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9917",
+                "CITY": "宝鸡",
+                "TYPE": "CB",
+                "V05001": 34.5328,
+                "V06001": 107.2189,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.2189,
+                    34.5328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9931",
+                "CITY": "兰州",
+                "TYPE": "CC",
+                "V05001": 36.0089,
+                "V06001": 103.8522,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8522,
+                    36.0089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9934",
+                "CITY": "西峰",
+                "TYPE": "CD",
+                "V05001": 35.7161,
+                "V06001": 107.6186,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6186,
+                    35.7161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9936",
+                "CITY": "张掖",
+                "TYPE": "CC",
+                "V05001": 39.0869,
+                "V06001": 100.2675,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2675,
+                    39.0869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9937",
+                "CITY": "嘉峪关",
+                "TYPE": "CC",
+                "V05001": 39.7647,
+                "V06001": 98.2975,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.2975,
+                    39.7647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9938",
+                "CITY": "天水",
+                "TYPE": "CD",
+                "V05001": 34.6,
+                "V06001": 105.6333,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.6333,
+                    34.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9939",
+                "CITY": "陇南",
+                "TYPE": "CA",
+                "V05001": 33.4833,
+                "V06001": 105.15,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.15,
+                    33.4833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9941",
+                "CITY": "甘南",
+                "TYPE": "CD",
+                "V05001": 34.9167,
+                "V06001": 102.8833,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.8833,
+                    34.9167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9951",
+                "CITY": "银川",
+                "TYPE": "CA",
+                "V05001": 38.4081,
+                "V06001": 106.3675,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3675,
+                    38.4081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9953",
+                "CITY": "吴忠",
+                "TYPE": "CA",
+                "V05001": 35.6633,
+                "V06001": 106.2025,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.2025,
+                    35.6633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9954",
+                "CITY": "固原",
+                "TYPE": "CD",
+                "V05001": 37.4206,
+                "V06001": 106.0342,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.0342,
+                    37.4206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9970",
+                "CITY": "海北",
+                "TYPE": "CD",
+                "V05001": 36.9503,
+                "V06001": 100.9003,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9003,
+                    36.9503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9971",
+                "CITY": "西宁",
+                "TYPE": "CD",
+                "V05001": 36.5994,
+                "V06001": 101.7672,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7672,
+                    36.5994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9990",
+                "CITY": "克拉玛依",
+                "TYPE": "CC",
+                "V05001": 45.47,
+                "V06001": 84.9639,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.9639,
+                    45.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9991",
+                "CITY": "乌鲁木齐",
+                "TYPE": "CC",
+                "V05001": 43.9161,
+                "V06001": 87.3928,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.3928,
+                    43.9161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9993",
+                "CITY": "石河子",
+                "TYPE": "CC",
+                "V05001": 44.2864,
+                "V06001": 85.9761,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.9761,
+                    44.2864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9996",
+                "CITY": "库尔勒",
+                "TYPE": "CC",
+                "V05001": 41.7597,
+                "V06001": 86.2036,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.2036,
+                    41.7597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9997",
+                "CITY": "阿克苏",
+                "TYPE": "CC",
+                "V05001": 41.1633,
+                "V06001": 80.235,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.235,
+                    41.1633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9998",
+                "CITY": "喀什",
+                "TYPE": "CC",
+                "V05001": 39.4833,
+                "V06001": 75.75,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.75,
+                    39.4833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "V01301": "Z9999",
+                "CITY": "伊宁",
+                "TYPE": "CC",
+                "V05001": 43.9422,
+                "V06001": 81.3253,
+                "FANWEI": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3253,
+                    43.9422
+                ]
+            }
+        }
+    ]
+}
