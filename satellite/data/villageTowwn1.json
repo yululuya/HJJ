@@ -1,0 +1,514 @@
+{
+  "silkroad": [{
+      "lon": -7.7343,
+      "lat": 37.8575,
+      "name": "里斯本",
+      "type": "city",
+      "country": "葡萄牙"
+    }, {
+      "lon": 2.3950,
+      "lat": 48.8791,
+      "name": "巴黎",
+      "type": "city",
+      "country": "法国"
+    }, {
+      "lon": 7.4487,
+      "lat": 52.4292,
+      "name": "汉堡",
+      "type": "city",
+      "country": "德国"
+    }, {
+      "lon": 36.2548,
+      "lat": 57.7041,
+      "name": "莫斯科",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 22.3681,
+      "lat": 53.1204,
+      "name": "布列斯特",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 30.1025,
+      "lat": 60.0209,
+      "name": "圣彼得堡",
+      "type": "city",
+      "country": "俄罗斯"
+    },
+    {
+      "lon": 60.6005,
+      "lat": 56.8309,
+      "name": "叶卡捷琳堡",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 82.9797,
+      "lat": 55.0406,
+      "name": "新西伯利亚",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 105.9521,
+      "lat": 56.3895,
+      "name": "伊尔库茨克",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 127.6062,
+      "lat": 50.2858,
+      "name": "布拉戈维申斯克(海兰泡)",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 135.1126,
+      "lat": 48.4374,
+      "name": "哈巴罗夫斯克(伯力)",
+      "type": "city",
+      "country": "俄罗斯"
+    },
+    {
+      "lon": 131.8853,
+      "lat": 43.1410,
+      "name": "符拉迪沃斯托克(海参崴)",
+      "type": "city",
+      "country": "俄罗斯"
+    }, {
+      "lon": 121.6625,
+      "lat": 38.8739,
+      "name": "大连",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 119.2016,
+      "lat": 34.6512,
+      "name": "连云港",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 121.5747,
+      "lat": 30.8645,
+      "name": "上海",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 119.1796,
+      "lat": 26.0765,
+      "name": "福州",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 118.5864,
+      "lat": 24.8665,
+      "name": "泉州",
+      "type": "city",
+      "country": "中国"
+    },
+    {
+      "lon": 113.2580,
+      "lat": 23.1403,
+      "name": "广州",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 108.3581,
+      "lat": 22.7660,
+      "name": "南宁",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 105.8175,
+      "lat": 21.0281,
+      "name": "河内",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 102.7001,
+      "lat": 25.0457,
+      "name": "昆明",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 106.6113,
+      "lat": 29.5352,
+      "name": "重庆",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 104.1503,
+      "lat": 30.6000,
+      "name": "成都",
+      "type": "city",
+      "country": "中国"
+    },
+    {
+      "lon": 102.6123,
+      "lat": 17.9787,
+      "name": "万象",
+      "type": "city",
+      "country": "泰国"
+    }, {
+      "lon": 100.5578,
+      "lat": 13.7633,
+      "name": "曼谷",
+      "type": "city",
+      "country": "泰国"
+    }, {
+      "lon": 95.9902,
+      "lat": 21.2177,
+      "name": "曼德勒",
+      "type": "city",
+      "country": "缅甸"
+    }, {
+      "lon": 90.4284,
+      "lat": 23.6747,
+      "name": "达卡",
+      "type": "city",
+      "country": "孟加拉"
+    }, {
+      "lon": 91.7907,
+      "lat": 22.2992,
+      "name": "吉大港",
+      "type": "city",
+      "country": "孟加拉"
+    },
+    {
+      "lon": 93.5513,
+      "lat": 19.4173,
+      "name": "皎漂",
+      "type": "city",
+      "country": "缅甸"
+    }, {
+      "lon": 88.3630,
+      "lat": 22.4719,
+      "name": "加尔各答",
+      "type": "city",
+      "country": "印度"
+    }, {
+      "lon": 77.6513,
+      "lat": 12.9189,
+      "name": "班加罗尔",
+      "type": "city",
+      "country": "印度"
+    }, {
+      "lon": 80.1562,
+      "lat": 6.9264,
+      "name": "科伦坡",
+      "type": "city",
+      "country": "斯里兰卡"
+    }, {
+      "lon": 91.0546,
+      "lat": 29.6498,
+      "name": "拉萨",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 75.9814,
+      "lat": 39.4786,
+      "name": "喀什",
+      "type": "city",
+      "country": "中国"
+    },
+    {
+      "lon": 73.0810,
+      "lat": 33.6146,
+      "name": "伊斯兰堡",
+      "type": "city",
+      "country": "巴基斯坦"
+    }, {
+      "lon": 62.7099,
+      "lat": 25.3241,
+      "name": "瓜达尔港",
+      "type": "city",
+      "country": "巴基斯坦"
+    }, {
+      "lon": 69.3237,
+      "lat": 41.29431,
+      "name": "塔什干",
+      "type": "city",
+      "country": "乌兹别克斯坦"
+    }, {
+      "lon": 51.4160,
+      "lat": 35.6037,
+      "name": "德黑兰",
+      "type": "city",
+      "country": "伊朗"
+    }, {
+      "lon": 43.1762,
+      "lat": 11.5015,
+      "name": "吉布提",
+      "type": "city",
+      "country": "吉布提"
+    }, {
+      "lon": 39.1827,
+      "lat": 21.5092,
+      "name": "吉达",
+      "type": "city",
+      "country": "沙特阿拉伯"
+    },
+    {
+      "lon": 31.1777,
+      "lat": 18.8751,
+      "name": "苏丹港",
+      "type": "city",
+      "country": "苏丹"
+    }, {
+      "lon": 38.7597,
+      "lat": 9.1888,
+      "name": "亚的斯亚贝巴",
+      "type": "city",
+      "country": "埃塞俄比亚"
+    }, {
+      "lon": 37.8808,
+      "lat": 11.0059,
+      "name": "克林图工业园",
+      "type": "city",
+      "country": "埃塞尔比亚"
+    }, {
+      "lon": 32.8491,
+      "lat": 39.8760,
+      "name": "安卡拉",
+      "type": "city",
+      "country": "土耳其"
+    }, {
+      "lon": 28.8885,
+      "lat": 41.0710,
+      "name": "伊斯坦布尔",
+      "type": "city",
+      "country": "土耳其"
+    }, {
+      "lon": 23.6315,
+      "lat": 37.9441,
+      "name": "比雷埃夫斯",
+      "type": "city",
+      "country": "希腊"
+    },
+    {
+      "lon": 4.4833,
+      "lat": 51.9166,
+      "name": "鹿特丹",
+      "type": "city",
+      "country": "荷兰"
+    }, {
+      "lon": 87.6269,
+      "lat": 43.7393,
+      "name": "乌鲁木齐",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 101.7333,
+      "lat": 36.6684,
+      "name": "西宁",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 108.9404,
+      "lat": 34.3071,
+      "name": "西安",
+      "type": "city",
+      "country": "中国"
+    },
+    {
+      "lon": 113.5986,
+      "lat": 34.6693,
+      "name": "郑州",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 117.35596,
+      "lat": 49.5929,
+      "name": "满洲里",
+      "type": "city",
+      "country": "中国"
+    }, {
+      "lon": 30.6666,
+      "lat": -4.0666,
+      "name": "蒙巴萨",
+      "type": "city",
+      "country": "肯尼亚"
+    }, {
+      "lon": 39.2431,
+      "lat": -6.8828,
+      "name": "达累斯萨拉姆",
+      "type": "city",
+      "country": "坦桑尼亚"
+    }, {
+      "lon": 18.5,
+      "lat": -34.35,
+      "name": "好望角",
+      "type": "city",
+      "country": "南非"
+    }, {
+      "lon": 103.754,
+      "lat": 1.0546,
+      "name": "新加坡",
+      "type": "city",
+      "country": "新加坡"
+    },
+    {
+      "lon": 101.7,
+      "lat": 3.1333,
+      "name": "吉隆坡",
+      "type": "city",
+      "country": "马来西亚"
+    },
+    {
+      "lon": 153.0175,
+      "lat": -27.5082,
+      "name": "布里斯班",
+      "type": "city",
+      "country": "澳大利亚"
+    },
+    {
+      "lon": 151.0729,
+      "lat": -33.8521,
+      "name": "悉尼",
+      "type": "city",
+      "country": "澳大利亚"
+    },
+    {
+      "lon": 145.0854,
+      "lat": -37.9008,
+      "name": "墨尔本",
+      "type": "city",
+      "country": "澳大利亚"
+    },
+    {
+      "lon": 129.02,
+      "lat": 35.1,
+      "name": "釜山",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2180",
+      "code": "47159",
+      "AreaId": "KO20_01"
+    },
+    {
+      "lon": 122.05,
+      "lat": 30.6333,
+      "name": "洋山港",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "58474"
+    },
+    {
+      "lon": 121.5094,
+      "lat": 30.0758,
+      "name": "宁波",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "Z9574"
+    },
+    {
+      "lon": 120.3286,
+      "lat": 36.072,
+      "name": "青岛",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "54857"
+    },
+    {
+      "lon": 114.2753,
+      "lat": 22.5667,
+      "name": "盐田",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "G3567"
+    },
+    {
+      "lon": 120.27,
+      "lat": 22.62,
+      "name": "高雄",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "59554"
+    },
+    {
+      "lon": 113.9219,
+      "lat": 22.3094,
+      "name": "香港",
+      "type": "city",
+      "country": "中国",
+      "countryCode": "2250",
+      "code": "45007"
+    },
+    {
+      "lon": 243.43,
+      "lat": 31.67,
+      "name": "恩森那达",
+      "type": "city",
+      "country": "墨西哥",
+      "countryCode": "4040",
+      "code": "76050"
+    },
+    {
+      "lon": 255.67,
+      "lat": 19.07,
+      "name": "曼萨尼约",
+      "type": "city",
+      "country": "墨西哥",
+      "countryCode": "4040",
+      "code": "76654"
+    },
+    {
+      "lon": 280.7,
+      "lat": 8.57,
+      "name": "巴拿马",
+      "type": "city",
+      "country": "巴拿马共和国",
+      "countryCode": "4020",
+      "code": "71820"
+    },
+    {
+      "lon": 283.42,
+      "lat": 44.22,
+      "name": "金斯顿",
+      "type": "city",
+      "country": "阿根廷",
+      "countryCode": "4020",
+      "code": "71820"
+    },
+    {
+      "lon": 290.12,
+      "lat": 18.43,
+      "name": "多米尼加",
+      "type": "city",
+      "country": "阿根廷",
+      "countryCode": "4110",
+      "code": "78486",
+      "AreaId": "DO0001_01"
+    },
+    {
+      "lon": 284.48,
+      "lat": 10.45,
+      "name": "卡塔赫纳",
+      "type": "city",
+      "country": "阿根廷",
+      "countryCode": "3010",
+      "code": "80022"
+    },
+    {
+      "lon": 283.03,
+      "lat": 3.85,
+      "name": "布维纳文图拉",
+      "type": "city",
+      "country": "阿根廷",
+      "countryCode": "3010",
+      "code": "80252"
+    },
+    {
+      "lon": 294.9,
+      "lat": -40.78,
+      "name": "圣安东尼奥",
+      "type": "city",
+      "country": "阿根廷",
+      "countryCode": "3130",
+      "code": "87784"
+    }
+  ]
+}

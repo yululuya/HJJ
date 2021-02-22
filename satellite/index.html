@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="cmn">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>全球站点</title>
+
+    <script src="libs/ajust.js"></script>
+    <link rel="stylesheet" href="./css/base.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/jquery.Jcrop.min.css">
+    <link rel="stylesheet" href="./css/jquery-ui.css" />
+
+    <link rel="stylesheet" href="./css/reseat.css" />
+
+</head>
+
+<body>
+    <!-- 地国 -->
+    <audio src="assets/sounds/click.mp3" style="display: none" id="ring1"></audio>
+    <audio src="./img/ring.wav" style="display: none" id="ring2"></audio>
+    <div id="globe_container"></div>
+    <!-- 容器 -->
+    <!-- <img src="" alt="">
+<img src="./assets/images/logo.png" alt="loge" class="logo"> -->
+    <!--回到最初的时间-->
+    <!--  -->
+    <div id="showName" class="showName">
+    </div>
+
+    <div class="event_list_container"></div>
+    <div class="hotEvent">
+        <div id="hotEventSlider" class="hotEventSlider"></div>
+        <div class="eventDetail"></div>
+    </div>
+    <div id="closeHotEvent" class="closeHotEvent">
+        <img src="./assets/images/hotevent/closeEvent.png" alt="" />
+    </div>
+    <div class="container" style="position: absolute; top: 0; left: 0; z-index: 1000;">
+        <div class="stationNumber"></div>
+        <div class="sateNumber" id="sateNumber"></div>
+        <div class="tulibox"></div>
+        <div id="home"><span>重置地球姿态</span></div>
+        <div id="planeGlobe"><span>切换地球样式</span></div>
+        <div id="tucengBox">
+            <span>已添加图层</span>
+            <div id="nums"></div>
+        </div>
+        <div id="silkroadIntroduce"></div>
+        <div id="silkroadChart">
+            <div class="closeButton">&#10006;</div>
+            <div class="chart"></div>
+        </div>
+
+        <div class="tucengListBox">
+            <img class="Bordertop" src="./img/boxBorder.png">
+            <ul>
+            </ul>
+            <img class="BorderBto" src="./img/boxBorder.png">
+        </div>
+
+        <div class="leftLogo">
+            <img src="./img/icon_banner.png" />
+        </div>
+        <div class="left">
+
+        </div>
+        <!--    <div class="rightLogo">-->
+        <img class="rightLogo" src="./img/logoRight.png?ver=1" alt="" />
+        <!--    </div>-->
+        <div class="tab">
+            <div class="rain">
+                <span class="click"></span>降水量
+            </div>
+            <div class="temperature">
+                <span class="click"></span>平均气温
+            </div>
+        </div>
+        <div id="title" class="midTitle">
+            <!--<span class="country">上海</span>
+     <span class="year">1951年~2016年</span>
+     <span class="rain">的年降水量</span>-->
+        </div>
+        <div id="echart2"></div>
+
+
+        <div class="recommendBox" style="height: 100%;">
+            <div class="IntroduceBox">
+                <!--<div class="close"><img src="img/closeBtn.png"/></div>-->
+                <div class="charBox" id="topChar"></div>
+
+                <div class="digestBox">
+                    <!--   <div class="line"></div> -->
+                    <div class="introduce" style="height: 1.5rem;">
+                        <!-- <div class="titles">元数据摘要</div>-->
+                        <div class="contentBox">
+                            <div id="content"></div>
+                            <div class="infos">已到底部</div>
+                        </div>
+                        <div class="clickLine" id="line1" style="display: none;">
+                            <!--   <div class="down" title="向下翻"></div>
+                            <div class="up" title="向上翻"></div> -->
+                        </div>
+                    </div>
+                    <!--  <div class="line"></div> -->
+                </div>
+                <div class="detailBox">
+                    <div class="line"></div>
+                    <div class="detail" style="height: 1.3rem;">
+                        <div class="titles"></div>
+                        <div class="contentBox" style="height:0.8rem;">
+                            <div id="content"></div>
+                            <div class="infos">已到底部</div>
+                        </div>
+                        <div class="clickLine" id="line2" style="display: none">
+                            <div class="down" title="向下翻"></div>
+                            <div class="up" title="向上翻"></div>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                </div>
+
+            </div>
+
+            <div class="leftLine">
+                <div style="height: 2rem;width: 100%;"></div>
+                <div id="guance_Icon" class="icon">
+                    <div class="child">观测技术</div>
+                </div>
+                <div id="yaosu_Icon" class="icon">
+                    <div class="child">要素内容</div>
+                </div>
+                <div id="huoqu_Icon" class="icon">
+                    <div class="child">获取方式</div>
+                </div>
+                <div id="ziliao_Icon" class="icon">
+                    <div class="child">资料来源</div>
+                </div>
+
+                <span id="swiperMap" class="swiperMap">
+                    <ul>
+                        <li data-index="100">季节轮播</li>
+                        <li data-index="1">blue marble底图（1月）</li>
+                        <li data-index="2">blue marble底图（2月）</li>
+                        <li data-index="3">blue marble底图（3月）</li>
+                        <li data-index="4">blue marble底图（4月）</li>
+                        <li data-index="5">blue marble底图（5月）</li>
+                        <li data-index="6">blue marble底图（6月）</li>
+                        <li data-index="7">blue marble底图（7月）</li>
+                        <li data-index="8">blue marble底图（8月）</li>
+                        <li data-index="9">blue marble底图（9月）</li>
+                        <li data-index="10">blue marble底图（10月）</li>
+                        <li data-index="11">blue marble底图（11月）</li>
+                        <li data-index="12">blue marble底图（12月）</li>
+                        <li data-index="0">底图样式(一)</li>
+                    </ul>
+                </span>
+                <span id="swiperScene" class="swiperScene">
+                    <div class="child">进入屏保</div>
+                </span>
+                <span id="screenshot" class="screenshot" style="display: none;">
+                    <div class="child">截图</div>
+                </span>
+                <div id="feedback" class="icon">
+                    <div class="child">用户反馈</div>
+                </div>
+                <div id="dataAdd" class="icon">
+                    <div class="child">数据源补充</div>
+                </div>
+                <div id="more" title="更多"></div>
+            </div>
+            <div class="rightLine">
+                <div style="height: 2rem;width: 100%;"></div>
+                <div class="rightTitle">推荐资料:</div>
+                <ul>
+                    <li id="guance">观测技术
+                        <div class="guance"></div>
+                    </li>
+                    <li id="yaosu">要素内容
+                        <div class="yaosu"></div>
+                    </li>
+                    <li id="huoqu">获取方式
+                        <div class="huoqu"></div>
+                    </li>
+                    <li id="ziliao">资料来源
+                        <div class="ziliao"></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="bottomBox">
+                <ul>
+                    <li id="silkroad">
+                        <div class="bChild">一带一路集</div>
+                    </li>
+                    <li id="CNHotEvent">
+                        <div class="bChild">国内事件</div>
+                    </li>
+                    <li id="FRHotEvent">
+                        <div class="bChild">国外事件</div>
+                    </li>
+                    <li id="history" type="history">
+                        <div class="bChild">历史沿革</div>
+                    </li>
+                    <li id="globalMonitor" type="globalMonitor">
+                        <div class="bChild">全球监测</div>
+                    </li>
+                    <!-- <li id="agriculture" type="agriculture">
+                    <div class="bChild">农业专题</div>
+                </li>
+                <li id="energy" type="energy">
+                    <div class="bChild">能源专题</div>
+                </li> -->
+
+                </ul>
+            </div>
+        </div>
+        <div class="stop">
+            <div class="goToBegin">
+                <span>跳转到1950</span>
+            </div>
+            <div class="pre">
+                <span>倒序播放、多次点击加快播放速</span>
+            </div>
+
+
+            <div class="sto">
+                <span>停止播放</span>
+            </div>
+
+            <div class="play">
+                <span>正序播放、多次点击加快播放速度</span>
+            </div>
+
+            <div class="goToEnd">
+                <span>跳转到当前时间</span>
+            </div>
+
+
+        </div>
+
+        <div class="filterTime">
+
+
+            <div id="slider-range-max"></div>
+            <div class="kedu">
+                <ul>
+                    <li class="one">10年</li>
+                    <li class="two">20年</li>
+                    <li class="three">30年</li>
+                    <li class="four">40年</li>
+                    <li class="six">50年</li>
+                    <li class="seven">60年</li>
+                    <li class="eight">70年</li>
+                    <li class="nine">80年</li>
+                    <li class="ten">90年</li>
+                    <li class="ten1">100年</li>
+                </ul>
+            </div>
+        </div>
+        <div class="masker">
+            <div class="feedbacks">
+                <div class="header">
+                    <span>用户反馈</span>
+                </div>
+                <form class="contents">
+                    <div>
+                        <label for="title">标题: </label>
+                        <input type="text" name="title" placeholder="请输入您想反馈的问题的标题" required="required" />
+                        <label for="title" require="true">*</label>
+                    </div>
+
+                    <div class="texts">
+                        <label for="content">内容:</label>
+                        <textarea name="content" placeholder="请详细描述您的意见和建议" required="required"></textarea>
+                        <label for="title" require="true">*</label>
+                    </div>
+                    <div>
+                        <label for="name">称呼:</label>
+                        <input type="text" name="name" id="name" placeholder="我们该如何称呼你呢" />
+                    </div>
+                    <div>
+                        <label for="phone">联系电话:</label>
+                        <input type="text" name="phone" id="phone" style="z-index:9999" placeholder="请填写您的联系电话，方便我们与您沟通" />
+                    </div>
+                    <div>
+                        <label for="email">联系邮箱:</label>
+                        <input type="text" id="email" name="email" placeholder="请填写您的邮箱，方便我们与您沟通" />
+                    </div>
+                </form>
+                <div class="feedbackaction">
+                    <div id="feedbackcommit"></div>
+                    <div id="feedbackcancel"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="iframe" id="iframeBox">
+        <div class="title">
+            <span class="close">&times</span>
+        </div>
+        <iframe></iframe>
+    </div>
+
+
+    <script id="vertexShader" type="x-shader/x-vertex">
+        #define M_PI 3.14159265 uniform float mixAmount; uniform float radius; uniform float offsetX; varying vec2 vUv; vec3 anglesToSphereCoord(vec2 a, float r) { return vec3( -r * cos(a.x)*sin(a.y), r * cos(a.y+ M_PI), r * sin(a.y) * sin(a.x) ); } void main()
+        { vec2 angles = M_PI * vec2(2. * uv.x, uv.y ); vec3 sphPos = anglesToSphereCoord(angles, radius); vec3 wrapPos = mix(position, sphPos, mixAmount); gl_Position = projectionMatrix * modelViewMatrix * vec4( wrapPos, 1.0 ); vUv = vec2(uv.x-offsetX,uv.y);
+        }
+
+    </script>
+    <!--vec4 color0 = texture2D( baseTexture, vUv );
+vec4 color1 = texture2D(boundingTexture,vUv)-->
+    <script id="fragmentShader" type="x-shader/x-vertex">
+        precision mediump float; uniform sampler2D baseTexture; varying vec2 vUv; void main() { gl_FragColor = texture2D( baseTexture, vUv ); }
+    </script>
+
+    <!--vUv = uv+vec2(0.2,0.0);-->
+
+    <!-- <script src="test/datas.js"></script> -->
+    <script src="libs/jquery-2.2.3.min.js"></script>
+    <script src="libs/jquery.ui.js"></script>
+    <!--<script src="libs/jquery-2.2.3.min.js"></script>-->
+    <script src="libs/jquery.range.js"></script>
+    <script src="libs/Tween.js"></script>
+    <script src="src/echarts.min.js"></script>
+    <script src="./src/showNumber.js"></script>
+
+    <!-- 配置左侧菜单栏的文件 -->
+    <script src="./src/conf.js"></script>
+    <!-- 各种简介 -->
+    <script src="data/jianjie.js"></script>
+    <script src="src/state.js"></script>
+    <script src="libs/three.min.js"></script>
+
+
+    <!--光晕-->
+    <script src="libs/CopyShader.js"></script>
+    <script src="libs/FXAAShader.js"></script>
+    <script src="libs/EffectComposer.js"></script>
+    <script src="libs/OutlinePass.js"></script>
+    <script src="libs/RenderPass.js"></script>
+    <script src="libs/ShaderPass.js"></script>
+
+    <!-- 点击事件 -->
+    <script src='./libs/onEvent.js'></script>
+
+
+    <!--<script src="index.js?v=1.0"></script> -->
+    <script src="globe2.js"></script>
+    <script src="src/base.js"></script>
+    <script src="./src/slider.js"></script>
+    <script src="./src/feedback.js"></script>
+    <!--<script src="./src/showAll.js"></script>-->
+
+    <script src="./src/swiperScene.js"></script>
+    <!-- 控制自动播放场景的 -->
+    <script src="./src/html2canvas.min.js"></script>
+    <script src="./src/jquery.Jcrop.js"></script>
+    <script src="./src/load.js"></script>
+    <script src="./src/screenShot.js"></script>
+    <!--  -->
+
+    <!--<script src="src/echart.js"></script>-->
+    <!--<script src="src/echart2.js"></script>-->
+
+</body>
+
+</html>

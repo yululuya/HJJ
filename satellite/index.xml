@@ -1,0 +1,86 @@
+<div>
+    <div name="space" cname="卫星">
+        <div name="ForeignSyncSatellite" cname="国外静止气象卫星">
+            <div name="Himawari_8" cname="Himawari-8卫星资料"></div>
+            <div name="GOES_13_15" cname="GOES-13/15卫星资料"></div>
+            <div name="METEOSAT_9_10" cname="METEOSAT-9/10卫星资料"></div>
+        </div>
+        <div name="ForeignPolarSatellite" cname="国外极轨气象卫星">
+            <div name="EOS_AQUA" cname="EOS AQUA卫星资料"></div>
+            <div name="METOP_A_B" cname="METOP-A/B卫星资料"></div>
+            <div name="EOS_TERRA" cname="EOS TERRA卫星资料"></div>
+            <div name="NOAA_15_18_19" cname="NOAA-15/18/19卫星资料"></div>
+            <div name="Suomi_NPP" cname="Suomi NPP卫星资料"></div>
+            <div name="DMSP_16_17_18_19" cname="DMSP-16/17/18/19卫星资料"></div>
+            <div name="JASON_2" cname="JASON-2卫星资料"></div>
+        </div>
+        <div name="NativeSyncSatellite" cname="国内静止气象卫星">
+            <div name="FY_2E" cname="FY-2E资料"></div>
+            <div name="FY_2F" cname="FY-2F资料"></div>
+            <div name="FY_2G" cname="FY-2G资料"></div>
+            <div name="FY_4A" cname="FY-4A资料"></div>
+            <div name="FY_2H" cname="FY-2H资料"></div>
+        </div>
+        <div name="NativePolarSatellite" cname="国内极轨气象卫星">
+            <div name="FY_3A" cname="FY-3A资料"></div>
+            <div name="FY_3B" cname="FY-3B资料"></div>
+            <div name="FY_3C" cname="FY-3C资料"></div>
+            <div name="FY_3D" cname="FY-3D资料"></div>
+            <div name="HY_2A" cname="HY-2A资料"></div>
+         <!--    <div name="gaofen" cname="高分卫星资料"></div>
+            <div name="hjjz" cname="环境减灾卫星"></div>
+            <div name="tanweixing" cname="碳卫星"></div> -->
+        </div>
+    </div>
+    <div name="high" cname="空基">
+        <div name="globalGaokong" cname="全球高空探测资料"></div>
+        <div name="aircraft" cname="全球飞机探测资料"></div>
+        <div name="NationalWelkinStation" cname="中国高空站资料"></div>
+    </div>
+    <div name="ground" cname="地基">
+        <div name="globalGroundStation" cname="全球地面站资料"></div>
+        <div name="NationalGroundStation" cname="中国国家地面站资料"></div>
+        <div name="AreaStation" cname="中国区域地面站资料">
+            <div name="AreaStation_kh" cname="中国区域地面站考核站"></div>
+            <div name="AreaStation_fkh" cname="中国区域地面站全部站"></div>
+        </div>
+        <div name="WIND_GPS" cname="风能观测塔资料"></div>
+        <div name="214" cname="雷电资料"></div>
+        <div name="traffic" cname="公路交通资料"></div>
+        <div name="NEARSURF_STATION" cname="近地面通量塔资料"></div>
+        <div name="UPAR_GPS" cname="地基GPS/MET水汽资料"></div>
+        <div name="globalShip" cname="全球船舶观测资料"></div>
+        <div name="globalBuoy" cname="全球浮标观测资料"></div>
+        <div name="global_sea" cname="全球海洋潮位资料"></div>
+        <div name="globalRadiationStation" cname="全球辐射站资料"></div>
+        <div name="NationalRadiationStation" cname="国家辐射站资料"></div>
+        <div name="RADIATION_STATION" cname="基准辐射站资料"></div>
+        <div name="AgrometeorologicalStation" cname="农业气象站观测资料"></div>
+        <div name="AGME_ASM" cname="土壤水分站观测资料"></div>
+        <div name="duopuleRadar" cname="多普勒天气雷达站"></div>
+        <div name="GAW_STATION" cname="大气成分观测资料"></div>
+        <div name="ANION_BR_STATION" cname="大气负离子资料"></div>
+    </div>
+    <div name="trades" cname="行业数据">
+        <div name="HYDROLOGY_STATION" cname="水利行业数据">
+            <div name="jiangshui" cname="降水"></div>
+            <div name="turang" cname="土壤墒情"></div>
+            <div name="hedaoshuiqing" cname="河道水情"></div>
+        </div>
+    </div>
+    <div name="radiation" cname="主题数据">
+        <div name="CNHotEvent" cname="国内年度十大气候事件"></div>
+        <div name="FRHotEvent" cname="国外年度十大气候事件"></div>
+        <div name="silkroad" cname="一带一路"></div>
+        <div cname="生态文明服务"></div>
+        <div cname="军民融合服务"></div>
+    
+    </div>
+    <div name="product" cname="数据产品示例">
+        <div cname="三维地图" href="http://10.20.69.137/3d22/index.htm?isplay=true&amp;iscityshift=true"></div>
+        <div cname="相对湿度和风" href="http://10.20.69.137/2d/index.html?overlaytype=relative_humidity&amp;level=850hPa&amp;isplay=true&amp;isshowwind=true&amp;isshowtool=false"></div>
+        <div cname="风场" href="http://10.20.69.137/3d3/index.html"></div>
+         <!--<div name="cloud" cname="云"></div>-->
+    </div>
+
+</div>

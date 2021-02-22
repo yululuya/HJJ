@@ -1,0 +1,9 @@
+.leftLogo,#home,#planeGlobe,#tucengBox,.rightLogo,.bottomBox,.leftLine,
+.left .hideitem:nth-child(3),.left .hideitem:nth-child(2),
+.left .hideitem:nth-child(4),.left .hideitem:nth-child(5),.left .hideitem:nth-child(6),
+.stationNumber,.stop,.filterTime,#topChar{
+	display:none !important;
+}
+.left{
+	top:0.7rem;
+}

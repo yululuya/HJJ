@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>html2canvas example</title>
+    <script type="text/javascript" src="./src/html2canvas.min.js"></script>
+    <script src="./libs/jquery-1.11.3.min.js"></script>
+</head>
+
+<body>
+<div id="capture" style="padding: 10px; background: #f5da55">
+    <h4 style="color: #000; ">Hello world!</h4>
+</div>
+
+<script type="text/javascript">
+    $('#capture').click(function () {
+        html2canvas(document.querySelector("#capture")).then(canvas => {
+            document.body.appendChild(canvas)
+        var url = canvas.toDataURL();
+        var triggerDownload = $("<a>").attr("href", url).attr("download", "异常信息.png").appendTo("body");
+        triggerDownload[0].click();
+        triggerDownload.remove();
+    })
+        ;
+    })
+
+</script>
+</body>
+
+</html>
+

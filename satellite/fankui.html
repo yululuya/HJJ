@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="libs/jquery-2.2.3.min.js"></script>
+    <link rel="stylesheet" href="./css/feedback.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="masker">
+            <div class="feedbacks">
+                <div class="header">
+                    <span>用户反馈</span>
+                </div>
+                <form class="contents">
+                    <div>
+                        <label for="title">标题: </label>
+                        <input type="text" name="title" />
+                    </div>
+
+                    <div class="texts">
+                        <label for="content">内容:</label>
+                        <textarea name="content"></textarea>
+                    </div>
+                    <div>
+                        <label for="name">联系人:</label>
+                        <input type="text" name="name" />
+                    </div>
+                    <div>
+                        <label for="phone">联系电话:</label>
+                        <input type="text" name="phone" style="z-index:9999" />
+                    </div>
+                    <div>
+                        <label for="email">联系邮箱:</label>
+                        <input type="text" name="email" />
+                    </div>
+                </form>
+                <div id="feedbackcommit">提交</div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,145 @@
+.masker {
+    position: absolute;
+    z-index: 9999;
+    display:none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.masker .feedbacks {
+    font-family: "Microsoft YaHei";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 6.75rem;
+    height: 4.4375rem;
+    padding: 0 0.3875rem;
+    background: rgba(49,49,49,0.6);
+    border: 0.0063rem solid #97fffe;
+    border-radius: 0.0625rem;
+    z-index:9999;
+}
+
+.masker .feedbacks .header {
+    position: relative;
+    height: 0.4375rem;
+    width: 100%;
+    display: inline-block;
+    vertical-align: bottom;
+    border-bottom: 0.0063rem solid #97fffe;
+}
+.masker .feedbacks .header::before {
+    position: absolute;
+    content: "*必填项";
+    height: 0.1625rem;
+    font-size: 0.0875rem;
+    color:#ffffff;
+    bottom: -0.1625rem;
+
+}
+.masker .feedbacks .header span{
+    height: 0.4375rem;
+    width: 100%;
+    color: #00f0ff;
+    display: inline-block;
+    text-align: center;
+    font: bold 0.175rem/0.4375rem "Microsoft YaHei";
+}
+
+
+.masker .feedbacks .contents {
+ padding: 0.1875rem 0.4688rem;
+}
+.masker .contents>div{
+    margin-top: 0.125rem;
+    font-size: 0.1125rem;
+}
+.masker .contents>div label{
+    display: inline-block;
+    width:  0.625rem;
+    font: 0.1125rem;
+    text-align: right;
+    vertical-align: middle;
+    color :#eeeeee;
+}
+
+
+.yellow {
+    color: yellow;
+}
+.masker .contents input{
+   background-color: transparent;
+   border: 0.0063rem solid #97fffe;
+   /* display: inline-block; */
+   vertical-align: middle;
+   height: 0.2625rem;
+   width: 4rem;
+   margin-left: 0.1rem;
+   font-size: 0.1rem ;
+   line-height: 0.2625rem;
+   color:#aaaaaa;
+   padding: 0 0.0625rem;
+}
+
+.masker .contents textarea{
+    color:#aaaaaa;
+    width: 4rem;
+    height: 1.125rem;
+    background-color: transparent;
+    margin-left: 0.1rem;
+    border: 0.0063rem solid #97fffe;
+    font-family: "Microsoft YaHei";
+    font-size: 0.1rem ;
+    display: inline-block;
+    vertical-align: middle;
+    padding:0.0625rem 0.0625rem;
+    overflow: hidden;
+}
+.feedbackaction{
+    position: absolute;
+    bottom:0.3125rem;
+    width: 2.8125rem;
+    padding:0;
+    height: 0.4375rem;
+    left: 50%;
+    margin-left: -1.375rem;
+    vertical-align: middle;
+
+}
+#feedbackcommit {
+    display: inline-block;
+    width: 1.25rem;
+    height: 0.4375rem;
+    background-image: url(../img/fdcommith.png);
+    background-size: 1.0625rem,0.2813rem;
+    background-position: center,center;
+    background-repeat: no-repeat;
+
+}
+#feedbackcommit:hover{
+    background-image: url(../img/fdcommit.png);
+    background-size: 1.25rem,0.4375rem;
+    background-repeat: no-repeat;
+
+}
+#feedbackcancel {
+    display: inline-block;
+    width: 1.25rem;
+    height: 100%;
+    margin-left: 0.25rem;
+    background-image: url(../img/fdcancelh.png);
+    background-size: 1.0625rem,0.2813rem;
+    background-position: center,center;
+    background-repeat: no-repeat;
+
+}
+#feedbackcancel:hover{
+    background-image: url(../img/fdcancel.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="libs/jquery-2.2.3.min.js"></script>
+    <style>
+        html,
+        body,
+        .container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .masker {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: rgba(0, 0, 0, 0.8);
+        }
+
+        .masker .feedbacks {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+            width: 700px;
+            height: 500px;
+            padding: 10px;
+            background: rgba(32, 32, 32, 0.8);
+            border: 1px solid #000;
+            border-radius: 4px;
+        }
+
+        .masker .feedbacks .header {
+            height: 50px;
+            width: 100%;
+            display: inline-block;
+            vertical-align: bottom;
+            border-bottom: 1px solid #6da8b0;
+        }
+
+        .header .logo {
+            height: 35px;
+            width: 186px;
+            background: url(./img/icon_banner.png) center center/100% 100%;
+            display: inline-block;
+            vertical-align: bottom;
+        }
+
+        .header .name {
+            color: #6da8b0;
+            vertical-align: bottom;
+            border-left: 2px solid #6da8b0;
+            display: inline-block;
+            font-size: 16px;
+            line-height: 16px;
+            margin-left: 10px;
+            padding-left: 10px;
+        }
+
+        .feedback .detailtitle {
+            padding: 14px 20px;
+            font-size: 14px;
+            line-height: 20px;
+            color: #6b979e;
+        }
+
+        .yellow {
+            color: yellow;
+        }
+
+        .feedback textarea {
+            display: block;
+            width: 650px;;
+            height: 125px;;
+            overflow: auto;
+            overflow-x: hidden;
+            margin: 10px 20px;
+            color: #6b979e;
+            font-size: 14px;
+            line-height: 25px;
+            background: transparent url(./img/textarea.gif) 0 0;
+            background-size: 2px 25px;
+            resize: none;
+            border: 0;
+            outline: none;
+            padding: 0 2px;
+        }
+
+        li {
+            list-style-type: none
+        }
+
+        .masker ul {
+            padding: 10px 18px;
+            margin: 0;
+        }
+
+        li .click {
+            margin: 0 8px 0 4px;
+        }
+
+        #feedbackcommit {
+            position: absolute;
+            bottom: 16px;
+            font-size: 16px;
+            font-weight: 700;
+            text-align: center;
+            height: 30px;
+            line-height: 30px;
+            width: 40px;
+            padding: 0 16px;
+            border-radius: 4px;
+            left: 50%;
+            color: #6b979e;
+            border: 1px solid #6b979e;
+            margin-left: -28px;
+        }
+        #feedbackcommit:hover{
+           cursor: pointer;
+           color: #1da5e9;
+            border: 1px solid #1da5e9;
+           box-shadow: 1px #1da5e9 inset;
+        }
+        .feedback ul li{
+            cursor: pointer;
+        }
+        .feedback ul li .manyi:hover{
+            cursor: pointer;
+            color : #22d6ee;
+        }
+        .feedback .radio{
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border: 1px solid #6da8b0;
+            border-radius: 5px;
+            position: relative;
+            vertical-align:middle;
+        }
+        .feedback  .selected  .radio::before{
+            content: " ";
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            left:0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+            border-radius: 4px;
+            background-color: #6da8b0;
+        }
+        li[pleased] .manyi{
+            margin-left: 10px;
+            color: #6da8b0;
+            display: inline-block;
+            vertical-align: middle;
+
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="masker">
+            <div class="feedbacks">
+                <div class="header">
+                    <span class="logo"></span>
+                    <spane class="name">用户交流区域</spane>
+                </div>
+                <div class="feedback">
+                    <div class="detailtitle">
+                        <div>尊敬的用户：</div>
+                        <div>&nbsp;&nbsp;&nbsp;&nbsp;您好！为了给您提供更好的服务，我们希望收集您使用
+                            <span class="yellow">“数据资源展示”</span>时的看法或建议，对您的配合和支持表示衷心感谢!</div>
+                        <div>&nbsp;&nbsp;&nbsp;&nbsp;请您将您的意见和看法写在下方，我们会时刻关注您的反馈，不断优化，以期达到您的满意</div>
+                    </div>
+                    <textarea placeholder="请在此留下您的宝贵意见" name="jianyi" id="jianyi"></textarea>
+
+                    <div class="detailtitle">
+                        你对
+                        <span class="yellow">“数据资源展示”</span>的满意度如何？
+                    </div>
+                    <ul>
+                        <li class="selected" pleased="A" cpleased ="很满意">
+                            <span class="radio" ></span>
+                            <span class="manyi">很满意</span>
+                        </li>
+                        <li pleased="B" cpleased ="满意">
+                            <span class="radio" ></span>
+                            <span class="manyi">满意</span>
+                        </li>
+                        <li pleased="C" cpleased ="一般">
+                            <span class="radio"></span>
+                            <span class="manyi">一般</span>
+                        </li>
+                        <li pleased="D" cpleased ="不满意">
+                            <span class="radio" ></span>
+                            <span class="manyi">不满意</span>
+                        </li>
+                    </ul>
+                </div>
+                <div id="feedbackcommit">提交</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+       $(".feedback ul").on("click","li",function(e){
+           $(".feedback ul li[pleased]").removeClass("selected");
+           $(this).addClass("selected");
+       })
+       $('#feedbackcommit').on('click',function(e){
+           var feedbacktext = $(".feedback textarea").val().trim();
+           var checked = $(".feedback li.selected").attr("pleased");
+           var checkedCN = $(".feedback li.selected").attr("cpleased");
+           var feedback = {
+               feedbacktext: feedbacktext,    // 文字内容
+               checked : checked,           //选中满意度的等级
+               checkedCN :checkedCN         //选中满意度对应的中文名字
+           }
+         $.post({
+             
+
+         })
+           $('.masker').hide()
+       })
+    </script>
+</body>
+
+</html>

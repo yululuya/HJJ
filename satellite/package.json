@@ -1,0 +1,15 @@
+{
+    "name": "gsn",
+    "version": "1.0.0",
+    "description": "",
+    "main": "globe2.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "browser-sync start --server --file \"**\" "
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "npm": "^6.7.0"
+    }
+}
